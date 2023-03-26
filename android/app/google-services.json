@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464556328415",
+    "project_id": "nutech-chat",
+    "storage_bucket": "nutech-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464556328415:android:c000ae26b85cd99069706a",
+        "android_client_info": {
+          "package_name": "co.naqeebabid.nutech_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464556328415-4hlummf2kk7c060t6t2471ji8dsebn3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwD5b2skEZ3WusgS0ZGd7O1S4-4kKq3Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464556328415-4hlummf2kk7c060t6t2471ji8dsebn3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
